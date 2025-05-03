@@ -1,0 +1,2 @@
+ALU.v,verilog,xil_defaultlib,C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 1/alu/xsim/srcs/ALU.v,
+glbl.v,Verilog,xil_defaultlib,C:/Users/karan/OneDrive/Desktop/vlsi tasks/task 1/alu/xsim/glbl.v
