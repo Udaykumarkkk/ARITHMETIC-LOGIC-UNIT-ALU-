@@ -57,3 +57,4 @@ In conclusion, a basic ALU design supporting addition, subtraction, AND, OR, and
 # OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/adfc0613-4cee-4917-a3bd-a34f933ed024)
+![Image](https://github.com/user-attachments/assets/28fb8bdd-6af2-418b-9fab-5cbd76dbd559)
