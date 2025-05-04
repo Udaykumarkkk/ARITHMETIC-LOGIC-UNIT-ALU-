@@ -52,3 +52,8 @@ The basic ALU design supporting addition, subtraction, AND, OR, and NOT operatio
 
 #Conclusion
 In conclusion, a basic ALU design supporting addition, subtraction, AND, OR, and NOT operations provides a fundamental building block for digital systems. The ALU design can be implemented using Verilog HDL and can be used in a variety of applications.
+
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/adfc0613-4cee-4917-a3bd-a34f933ed024)
