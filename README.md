@@ -11,9 +11,11 @@
 
 # DESCRIPTION FOR THE PROJECT ( ARITHMETIC LOGIC UNIT )
 
+![1](https://github.com/user-attachments/assets/957db10b-c711-47ab-8e8a-4d1f6092c272)
 
 Basic ALU Design Supporting Addition, Subtraction, AND, OR, and NOT Operations
 An Arithmetic Logic Unit (ALU) is a fundamental component of digital systems, responsible for performing arithmetic and logical operations. This description outlines a basic ALU design that supports addition, subtraction, AND, OR, and NOT operations.
+![2](https://github.com/user-attachments/assets/07940b95-631e-4eb0-b053-f4d2e26223d2)
 
 #ALU Operations
 The ALU will support the following operations:
